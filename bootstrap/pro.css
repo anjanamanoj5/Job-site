@@ -1,0 +1,22 @@
+.container{
+}
+a{float:left;}
+
+.main-menu{
+background-image: url("ba.jpg");
+
+}
+
+li{padding:20px;
+ color:red;
+display:inline-block;
+}
+.navbar{color:red;}
+.nav-tabs{ display:block;
+border-color:#a5f3ff;}
+
+.home-about-area .container h5{color:#635eff;
+font-size:25;}
+
+.main-menu .container .row .col-lg-12 .navbar{color:#a00000;}
+section-gap{padding:50px;}

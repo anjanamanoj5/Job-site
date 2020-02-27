@@ -1,0 +1,17 @@
+.home-about-left p {
+	margin: 20px 0;
+	max-width: 490px
+}
+
+.home-about-left .primary-btn:hover {
+	box-shadow: 0px 20px 20px 0px rgba(245, 63, 81, 0.2)
+}
+
+@media (max-width: 991px) {
+	.home-about-left {
+		margin-bottom: 50px
+	}
+}
+.section-gap {
+	padding: 120px 0
+}
